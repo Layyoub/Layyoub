@@ -54,35 +54,7 @@
 </div>
 
 <!-- Experience -->
-<h2 align="center">💼 Experience</h2>
-<div align="center">
-  <table style="width:90%; text-align:left;">
-    <tr>
-      <td><strong>Software Engineering Intern</strong></td>
-      <td>Ooredoo Tunisia</td>
-      <td>July – September 2025</td>
-    </tr>
-    <tr><td colspan="3">Crafted a comprehensive web solution with Spring Boot (Java, Maven, H2) and Angular, integrating secure JWT authentication, sleek UI, and full CRUD for packs, products, centres, and vouchers.</td></tr>
-
-    <tr><td colspan="3"><br></td></tr>
-
-    <tr>
-      <td><strong>Software Developer</strong></td>
-      <td>LEANIOS</td>
-      <td>January – July 2024</td>
-    </tr>
-    <tr><td colspan="3">Built blogging platform (Ruby on Rails, Tailwind CSS, JavaScript, PgAdmin) and quality control dashboard for Industry 4.0 real-time product monitoring.</td></tr>
-
-    <tr><td colspan="3"><br></td></tr>
-
-    <tr>
-      <td><strong>Software Developing Intern</strong></td>
-      <td>DECOPLAST</td>
-      <td>July – September 2023</td>
-    </tr>
-    <tr><td colspan="3">Created Python & C# automation scripts for injection press efficiency and integrated real-time analytics for production monitoring & quality assurance.</td></tr>
-  </table>
-</div>
+<
 
 <!-- Skills -->
 <h2 align="center">🛠️ Skills & Tools</h2>
