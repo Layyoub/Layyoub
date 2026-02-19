@@ -36,25 +36,7 @@
   <p>Creative and driven software engineering student with a strong focus on backend architecture, clean code, and security-first development. I enjoy building robust systems that solve real-world problems. With hands-on experience across academic and professional settings, I'm comfortable with CRM tools, digital platforms, and modern communication methods. Motivated by results and enjoy building trust with customers in fast-paced environments.</p>
 </div>
 
-<!-- Education -->
-<h2 align="center">🎓 Education</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>Engineering Cycle – Software Engineering</strong></td>
-      <td>ESPRIT</td>
-      <td>2024 – Present</td>
-    </tr>
-    <tr>
-      <td><strong>Bachelor of Computer Science</strong></td>
-      <td>ISIMM</td>
-      <td>2021 – 2024</td>
-    </tr>
-  </table>
-</div>
 
-<!-- Experience -->
-<
 
 <!-- Skills -->
 <h2 align="center">🛠️ Skills & Tools</h2>
@@ -67,10 +49,7 @@
   </p>
 </div>
 
-<h2 align="center">🌍 Languages</h2>
-<div align="center">
-  <p>English (C1) • French (B2)</p>
-</div>
+
 
 <!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Stats</h2>
